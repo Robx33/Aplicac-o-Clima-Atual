@@ -10,7 +10,7 @@
 <p>Criei esta aplicação para continuar praticando e me preparando para configurar APIs diferentes das quais já tinha trabalhado, onde utilizo duas APIs diferentes, uma do clima atual e outro da imagem correspondente, e foi a primeira vez utilizando uma API key e entendendo como utilizá-la. E pude continuar me desenvolvendo em aplicaçãoes assíncronas e como trabalhar com elas corretamente.</p>
 <br>
 <h3>Acesso ao Projeto:</h3>
-<a href="https://robx33.github.io/Aplicacao-Clima-Atual-WeatherAPI/">Weather</a>
+<a href="https://robx33.github.io/Clima-Atual-WeatherAPI/">Weather</a>
 <br>
 <br>
 <h3>Tecnologias utilizadas:</h3>
